@@ -1,5 +1,5 @@
 {
-    "name": "zyberspace/steam-web-api-client",
+    "name": "anthonyphysgun/steam-web-api-client",
     "description": "Automatically generated api client for the Steam Web API in style of the google-api-php-client.",
     "keywords": ["steam", "web", "api", "client", "automatically", "generated"],
     "type": "library",
